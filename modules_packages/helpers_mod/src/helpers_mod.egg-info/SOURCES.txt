@@ -1,0 +1,10 @@
+setup.py
+src/helpers_mod/__init__.py
+src/helpers_mod/demo.py
+src/helpers_mod/extras.py
+src/helpers_mod/fibo.py
+src/helpers_mod/helpers.py
+src/helpers_mod.egg-info/PKG-INFO
+src/helpers_mod.egg-info/SOURCES.txt
+src/helpers_mod.egg-info/dependency_links.txt
+src/helpers_mod.egg-info/top_level.txt
